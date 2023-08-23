@@ -28,6 +28,7 @@ Main.java:7: error: class, interface, enum, or record expected
     	}
     	^
 4 errors
+
 # QUESTÃO 8:
 
 8-javac master.java
