@@ -25,3 +25,11 @@ Main.java:7: error: class, interface, enum, or record expected
     	}
     	^
 4 errors
+# QUESTÃO 8:
+
+8-javac master.java
+master.java:3: error: class Main is public, should be declared in a file named Main.java
+public class Main {
+   	^
+1 error
+
