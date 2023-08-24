@@ -10,6 +10,10 @@ A JVM possibilita a portabilidade do código Java, pois o código Java inicialme
 
 A JRE é o ambiente utilizado para rodar os códigos em Java. E a JDK é o kit necessário para desenvolver aplicativos Java.
 
+# QUESTÃO 4:
+
+Aparece uma mensagem de erro dizendo que o comando não foi reconhecido.
+
 # QUESTÃO 5:
 error: can't find main(String[]) method in class: atvd.Main
 
